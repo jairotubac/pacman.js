@@ -1,0 +1,18 @@
+.container{
+    margin: auto;
+    position: relative;
+    
+}
+
+#canvas1 {
+    background-color: orangered;
+
+}
+
+body, html {
+    margin: 0;
+    height: 100%;
+    overflow: hidden;
+}
+
+
